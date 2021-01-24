@@ -36,3 +36,8 @@ LEFT JOIN
 on r.campaign_name = tr.campaign_name
 
 group by r.campaign_name;
+
+
+
+*Notes:
+First try with pandas calculations lead to different results. It should be a bug with library. Final try should be the one taken into account.
