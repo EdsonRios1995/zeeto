@@ -1,0 +1,10 @@
+timestamp_utc,campaign_name,event_type,revenue
+2021-01-01 12:01:45,Campaign a,visit_created,null
+2021-01-01 12:01:47,Campaign a,campaign_impressed,.99
+2021-01-01 12:01:49,Campaign b,visit_created,null
+2021-01-01 12:07:12,Campaign c,visit_created,null
+2021-01-01 12:03:16,Campaign a,campaign_converted,.99
+2021-01-01 12:07:15,Campaign c,campaign_impressed,1.20
+2021-01-01 12:01:55,Campaign b,campaign_impressed,1.99
+2021-01-01 12:04:19,Campaign a,campaign_impressed,.54
+2021-01-01 12:10:52,Campaign c,campaign_converted,1.20

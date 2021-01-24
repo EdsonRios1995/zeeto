@@ -1,0 +1,119 @@
+[
+    {
+        "name": "(1) Cérès",
+        "Mass": 9.393e+20,
+        "Volume": 4210000000.0,
+        "gravity": 0.28,
+        "discoveryDate": "01/01/1801",
+        "uniqKey": "(1) Cérès-0.28",
+        "Volume_ranking": 11.0
+    },
+    {
+        "name": "(136199) Éris",
+        "Mass": 1.66e+22,
+        "Volume": 6590000000.0,
+        "gravity": 0.82,
+        "discoveryDate": "05/01/2005",
+        "uniqKey": "(136199) Éris-0.82",
+        "Volume_ranking": 10.0
+    },
+    {
+        "name": "Uranus",
+        "Mass": 8.68127e+25,
+        "Volume": 68330000000000.0,
+        "gravity": 8.87,
+        "discoveryDate": "13/03/1781",
+        "uniqKey": "Uranus-8.87",
+        "Volume_ranking": 3.0
+    },
+    {
+        "name": "Pluton",
+        "Mass": 1.303e+22,
+        "Volume": 7150000000.0,
+        "gravity": 0.62,
+        "discoveryDate": "18/02/1930",
+        "uniqKey": "Pluton-0.62",
+        "Volume_ranking": 9.0
+    },
+    {
+        "name": "Neptune",
+        "Mass": 1.02413e+26,
+        "Volume": 62539999999999.99,
+        "gravity": 11.15,
+        "discoveryDate": "23/09/1846",
+        "uniqKey": "Neptune-11.15",
+        "Volume_ranking": 4.0
+    },
+    {
+        "name": "(136108) Hauméa",
+        "Mass": 4.006e+21,
+        "Volume": 2400000000.0,
+        "gravity": 0.401,
+        "discoveryDate": "28/12/2004",
+        "uniqKey": "(136108) Hauméa-0.401",
+        "Volume_ranking": 12.0
+    },
+    {
+        "name": "(136472) Makémaké",
+        "Mass": 4.4e+21,
+        "Volume": 1700000000.0,
+        "gravity": 0.5,
+        "discoveryDate": "31/03/2005",
+        "uniqKey": "(136472) Makémaké-0.5",
+        "Volume_ranking": 13.0
+    },
+    {
+        "name": "Jupiter",
+        "Mass": 1.89819e+27,
+        "Volume": 1431280000000000.0,
+        "gravity": 24.79,
+        "discoveryDate": "",
+        "uniqKey": "Jupiter-24.79",
+        "Volume_ranking": 1.0
+    },
+    {
+        "name": "Mars",
+        "Mass": 6.41712e+23,
+        "Volume": 163180000000.0,
+        "gravity": 3.71,
+        "discoveryDate": "",
+        "uniqKey": "Mars-3.71",
+        "Volume_ranking": 7.0
+    },
+    {
+        "name": "Mercure",
+        "Mass": 3.30114e+23,
+        "Volume": 60830000000.0,
+        "gravity": 3.7,
+        "discoveryDate": "",
+        "uniqKey": "Mercure-3.7",
+        "Volume_ranking": 8.0
+    },
+    {
+        "name": "Saturne",
+        "Mass": 5.68336e+26,
+        "Volume": 827130000000000.0,
+        "gravity": 10.44,
+        "discoveryDate": "",
+        "uniqKey": "Saturne-10.44",
+        "Volume_ranking": 2.0
+    },
+    {
+        "name": "La Terre",
+        "Mass": 5.97237e+24,
+        "Volume": 1083210000000.0,
+        "gravity": 9.8,
+        "discoveryDate": "",
+        "uniqKey": "La Terre-9.8",
+        "Volume_ranking": 5.0
+    },
+    {
+        "name": "Vénus",
+        "Mass": 4.86747e+24,
+        "Volume": 928430000000.0,
+        "gravity": 8.87,
+        "discoveryDate": "",
+        "uniqKey": "Vénus-8.87",
+        "Volume_ranking": 6.0
+    }
+]
